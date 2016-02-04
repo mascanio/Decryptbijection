@@ -6,7 +6,7 @@ The original author of this code is Alberto Casas Ortiz, Spain.
 
 If you use this code, include this file with it. The license of your 
 derivate project must be LGPL and you must include my authory of the
-original code. It's enought if you include this document.
+original code.
 
 If you use this code, please conctact me before doing it through this
 github account, and i will answer any doubt.
