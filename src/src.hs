@@ -1,3 +1,7 @@
+--Author: Alberto Casas Ortiz
+--License: All rights reserved.
+--Contact: albeca01@ucm.es
+
 import Data.Char
 
 --El programa sirve para, dado un texto codificado con una biyeccion entre caracteres,
