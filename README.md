@@ -4,12 +4,7 @@ Given a bijection bewteen characters and a text, coded or not, the program will 
 
 The original author of this code is Alberto Casas Ortiz, Spain.
 
-If you use this code, include this file with it. The license of your 
-derivate project must be LGPL and you must include my authory of the
-original code.
-
-If you use this code, please conctact me before doing it through this
-github account, and i will answer any doubt.
+If you are going to use this code, please conctact me before doing it through this
+github account, and I will answer any doubt.
 
 Thank you.
-
